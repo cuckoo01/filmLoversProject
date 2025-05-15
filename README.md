@@ -53,7 +53,7 @@
   ### 2.1. Common Pages
   
 #### a. Sign in & Sign up:
-![1 2](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/84dc7fc6-44d0-46f5-b1f9-4b82a8670fa3)
+![SignIn](https://github.com/user-attachments/assets/ce9c81db-ad35-4db1-9235-44366084f2a7)
 
 #### b. Home page
 ![0cb14e1e-e1ea-41a2-9cfa-d1757e08560d-0005](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/3f34f246-b4a4-4ee4-a3d5-c49f182daeb7)
