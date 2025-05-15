@@ -1,4 +1,4 @@
-![Admin_Login](https://github.com/user-attachments/assets/ee7fc5e8-eeeb-485f-8dc4-78ecb9e35eaa)![filmList](https://github.com/user-attachments/assets/465e0bab-a2fd-421c-b4d9-97a49864f9cd)![SignUp](https://github.com/user-attachments/assets/dc5c0bfc-523a-41be-bc58-942b83c5bd47)# 🎬 Film Lovers
+# 🎬 Film Lovers
 
 ## Mẫu giáo tập code - Group members:
 - Nguyễn Thị Bích Duyên - SE183629
@@ -7,7 +7,7 @@
 - Võ Thị Mai Hoa - SE183659
 
 ## 1. Requirement: 
-### Target users: Film viewers who want to hold the latest information, ratings and reviews of films, tv series, movies...
+### Target Users: Film viewers who want to hold the latest information, ratings and reviews of films, tv series, movies...
 
 ## Description
 
@@ -52,20 +52,20 @@
   
   ### 2.1. Common Pages
   
-#### a. Sign in & Sign up:
+#### a. Sign In & Sign Up:
 ![SignIn](https://github.com/user-attachments/assets/ce9c81db-ad35-4db1-9235-44366084f2a7)
 ![SignUp](https://github.com/user-attachments/assets/6bd85deb-4feb-4d7b-9866-855f37d96e48)
 
-#### b. Home page
+#### b. Home Page
 ![landingPage](https://github.com/user-attachments/assets/0b9e43b0-d113-4ef2-af45-a5f9664f0638)
 
-#### c. Trending films 
+#### c. Trending Films 
 ![filmList](https://github.com/user-attachments/assets/0dcd688c-2bfb-4570-b777-1b08854c5252)
 
-#### d. Film details and Reviews
+#### d. Film Details and Reviews
 ![filmInfo](https://github.com/user-attachments/assets/9d31ffd0-2344-43ca-9847-2e19bb9a67ba)
 
-#### e. Film cast details
+#### e. Film Cast Details
 ![fullCast](https://github.com/user-attachments/assets/0cb179d2-8fb3-46bf-9be0-6b07db790a52)
 
 
@@ -80,13 +80,13 @@
 #### c. Movie Database
 ![MovieListPage](https://github.com/user-attachments/assets/f6e900b8-4f2d-4254-86b8-eaea4654d4ae)
 
-#### d. Add new movie
+#### d. Add New Movie
 ![Show](https://github.com/user-attachments/assets/13015024-efe6-466a-b15e-cafe6429db57)
 
-#### e. Manage users
+#### e. Manage Users
 ![UserMangementPage_Admin](https://github.com/user-attachments/assets/a2d197e0-8e53-408c-91d1-e56f4885c77a)
 
-#### f. Manage comments
+#### f. Manage Reviews
 ![CommentPage_Admin](https://github.com/user-attachments/assets/c7e8bf87-bfba-433c-9e88-3c9bd00d8ca3)
 </details>
 
@@ -103,7 +103,7 @@
 
 ![system_design](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/98ba0418-4988-441d-abf2-c84a2105cd72)
 
-### b. Flow chart:
+### b. Flow Chart:
 
 ![FilmLovers-Flowchart drawio](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/8b699f31-6976-42b2-ad31-269e608cf046)
 
