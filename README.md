@@ -1,4 +1,4 @@
-# 🎬 Film Lovers
+![Admin_Login](https://github.com/user-attachments/assets/ee7fc5e8-eeeb-485f-8dc4-78ecb9e35eaa)![filmList](https://github.com/user-attachments/assets/465e0bab-a2fd-421c-b4d9-97a49864f9cd)![SignUp](https://github.com/user-attachments/assets/dc5c0bfc-523a-41be-bc58-942b83c5bd47)# 🎬 Film Lovers
 
 ## Mẫu giáo tập code - Group members:
 - Nguyễn Thị Bích Duyên - SE183629
@@ -54,40 +54,40 @@
   
 #### a. Sign in & Sign up:
 ![SignIn](https://github.com/user-attachments/assets/ce9c81db-ad35-4db1-9235-44366084f2a7)
+![SignUp](https://github.com/user-attachments/assets/6bd85deb-4feb-4d7b-9866-855f37d96e48)
 
 #### b. Home page
-![0cb14e1e-e1ea-41a2-9cfa-d1757e08560d-0005](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/3f34f246-b4a4-4ee4-a3d5-c49f182daeb7)
-
+![landingPage](https://github.com/user-attachments/assets/0b9e43b0-d113-4ef2-af45-a5f9664f0638)
 
 #### c. Trending films 
-![2](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/25da3684-5e71-4f30-ba98-e724ed6884ea)
+![filmList](https://github.com/user-attachments/assets/0dcd688c-2bfb-4570-b777-1b08854c5252)
 
 #### d. Film details and Reviews
-![3](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/ed63f208-5cde-448a-9b49-b278d14bdaec)
+![filmInfo](https://github.com/user-attachments/assets/9d31ffd0-2344-43ca-9847-2e19bb9a67ba)
 
 #### e. Film cast details
-![4](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/e874c34f-f6ac-4326-99f4-916d2dee4178)
+![fullCast](https://github.com/user-attachments/assets/0cb179d2-8fb3-46bf-9be0-6b07db790a52)
 
 
 ### 2.2. Admin Pages
 
 #### a. Login
-![5](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/dcdbfb8c-7090-427e-b333-066669267930)
+![Admin_Login](https://github.com/user-attachments/assets/6cc9ac48-c418-401c-9bbf-8a6964382a3a)
 
 #### b. Dashboard
-![6](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/a919a4cf-8940-44f7-8c9c-cd17f2484587)
+![HomePage](https://github.com/user-attachments/assets/2f1163c6-8f35-47e4-94e6-e4b2dd020cae)
 
 #### c. Movie Database
-![7](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/c23c73d0-75f2-401c-b922-ef3d9590c12f)
+![MovieListPage](https://github.com/user-attachments/assets/f6e900b8-4f2d-4254-86b8-eaea4654d4ae)
 
 #### d. Add new movie
-![8](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/b2c9f238-1a76-4b26-a6b3-6b8e2396263b)
+![Show](https://github.com/user-attachments/assets/13015024-efe6-466a-b15e-cafe6429db57)
 
 #### e. Manage users
-![9](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/5fb2f929-236c-4ff6-ac83-a0ae45ca7e01)
+![UserMangementPage_Admin](https://github.com/user-attachments/assets/a2d197e0-8e53-408c-91d1-e56f4885c77a)
 
 #### f. Manage comments
-![10](https://github.com/dunghuynh-teaching/prj301-se1867-06/assets/133933281/a6d3762c-c7fa-4d52-b8c1-50ea4f7cbc59)
+![CommentPage_Admin](https://github.com/user-attachments/assets/c7e8bf87-bfba-433c-9e88-3c9bd00d8ca3)
 </details>
 
 
